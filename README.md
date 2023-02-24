@@ -1,26 +1,31 @@
-# emby-
+# emby-公益服 免费服务器
 
-免费emby公益服务器
+Emby公益服务器地址
+公益服(国内电信可直连观看)
 
-EmbyX，一个新的免费emby公益服务器，需要一个Tglegram账号，因为emby公益服务器注册是自助的，利用telegram机器人自动创建，直接输入用户名即可，不用密码，不过服务器在国外，可能国内网速不好，具体的可以自行测试。
+https://emby.plusmedia.site
 
-Emby 是一个家庭媒体库软件，包含服务端和客户端。服务端用于整理电影和剧集，客户端连上服务端后就能播放这些影片。
+端口: 443
+CF 公益服(仅限挂代理观看)
+https://emby-cf.plusmedia.site
 
-emby公益服务器注册方法
-私聊这个机器人：@EmbyXBot，按照步骤来即可，不用答题，几步很简单
+端口: 443
+备用服1:
+https://emby.xeton.dev
 
-emby公益服务器自助创建详细步骤
-点击”Start”按钮 >>> 它会提示让我们使用 “/create” 命令创建账号
-之后进入 Embyx公益服 网站 >>> 输入用户名(密码不需要输入) >>> 点击登录即可
+端口: 443
+备用服2:
+https://jellyfin.xeton.dev
 
-emby公益服务器地址
-EmbyX：https://embyx.one/
+端口: 443
+备用服3:
+https://movie.xeton.dev
 
-Emby客户端使用
-Windows_TerminusPlayer：点击下载
-MacOS_TerminusPlayer: 点击下载
-Android_Emby客户端：点击进入
+端口: 443
+备用服4:
+https://servers.xeton.dev
 
-地址填入: https://embyx.one
-端口填入: 443
-
+端口: 443
+账号：普拉斯影业
+密码：plusisbest
+使用注意: 仅限 Emby, Infuse 等客户端挂梯子登录观看
