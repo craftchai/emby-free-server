@@ -41,13 +41,6 @@ https://servers.xeton.dev
 paul_电报服用户管理机器人
 https://t.me/paul_user_bot
 
-emby服地址：
-http://cf.imetyou.top （cf线路,可以加https访问）
-http://emby.imetyou.top:8096 （随机线路）
-http://fk.imetyou.top:8096 （落地机线路）
-http://kr.imetyou.top:22333 （首尔中转）
-http://sg.imetyou.top:22333 (新加坡中转）
-http://chun.imetyou.top:22333 (春川中转）
 
 创建emby账号：/create + 用户名
 e.g：/create helloworld
