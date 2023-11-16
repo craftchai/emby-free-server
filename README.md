@@ -58,9 +58,6 @@ e.g：/create helloworld
 
 https://t.me/kuqun_bot
 
-地    址：https://1.4545.cf
-端    口：4002  
-
 自助开号
 打开酷群搜索机器人 @kuqun_bot  
 输入指令 /emby
